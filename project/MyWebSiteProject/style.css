@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+}
+.container{
+display: block;
+background-color: brown;
+width: 600px;
+height: 400px;
+position: relative;
+}
+.container .box-b1{
+    display: inline;
+    width:30%;
+    height: 40%;
+    background-color: yellow;
+    position: absolute;
+    top:5px;
+    left:5px;
+}
+.container .box-b2{
+    display: inline;
+    width:30%;
+    height: 40%;
+    background-color: black;
+    position: absolute;
+}
+.container div{
+    display: inline;
+}

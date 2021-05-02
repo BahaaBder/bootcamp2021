@@ -1,0 +1,17 @@
+.container{
+  background-color: #009432;
+  display: inline-block;
+ padding: 20px;
+ position: relative;
+ border: 2px solid brown;
+ height: 200px;
+}
+.sameBlock{
+  display: inline-block;
+}
+#send{
+position: absolute;
+right: 10px;
+bottom: 5px;
+background-color: cyan;
+}
